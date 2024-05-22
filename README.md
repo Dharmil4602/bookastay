@@ -1,28 +1,3 @@
-## Group Project Repository
-
-Group - 07
-Link : https://git.cs.dal.ca/sprajapati/csci-5709-grp-07
-
-# Group 07 Project Proposal
-
-- _Date Created_: 19 / 02 / 2024
-- _Last Modification Date_: 27 / 02 / 2024
-- _Live URL_: <https://bookastay-group7-proposal.netlify.app/>
-- _Git URL_: <https://git.cs.dal.ca/sprajapati/csci-5709-grp-07/>
-
-## Authors
-
-- [Shyamal Prajapati](sgp@dal.ca)
-- [Dharmil Shah](dharmilnshah@dal.ca)
-- [Aman Desai](amandesai@dal.ca)
-- [Akshat Shah](akshat.shah@dal.ca)
-- [Divyank Shah](dv491067@dal.ca)
-- [Nikunj Hudka](nk856850@dal.ca)
-
-## Deployment
-
-We started from the boilerplate code from our Gitlab repository. To deploy the app, I run the command of `npm run build` and dropped the build on Netlify.
-
 ### Installation steps
 
 - Open the project and fire the below command to install the project
